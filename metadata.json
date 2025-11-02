@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Pacific Attires Production ERP",
+  "description": "A web application for the garment industry, focusing on HR and Production management. The application utilizes local browser storage to store all data directly on the device.",
+  "requestFramePermissions": []
+}
